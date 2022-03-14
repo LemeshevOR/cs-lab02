@@ -20,4 +20,13 @@ int main()
         cout<<"Max = B = "<<b;
     }
 
+    if (a<b)
+    {
+        cout<< "Min = A = "<< a;
+    }
+    else
+    {
+        cout << "Min = B = "<<b;
+    }
+
 }
